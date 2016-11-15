@@ -1,0 +1,28 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+body {
+  background-color: #FF33E2;
+  color: #BD33FF;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 12px;
+  margin: 40px;
+}
+
+a {
+  color: #666;
+}
+
+a:visited {
+  color: #666;
+}
+
+a:hover {
+  color: #D833FF;
+  background-color: white;
+}
